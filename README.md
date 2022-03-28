@@ -6,18 +6,18 @@
 
 ## Table of content
 
-* [English version](#English-version)
+* [English version](#english-version)
   * [Getting started](#getting-started)
-		* [Submitting an idea](#submitting-an-idea)
-		* [Create a new dataset](#create-a-new-dataset)
-	  * [Contributing to an existing dataset](#contributing-to-an-existing-dataset)
+  * [Submitting an idea](#submitting-an-idea)
+  * [Create a new dataset](#create-a-new-dataset)
+  * [Contributing to an existing dataset](#contributing-to-an-existing-dataset)
   * [Datasets](#datasets)
-		* [Metadata specification](#metadata-specification)
-		* [Data format](#data-format)
-		* [Scripts](#scripts)
-		* [Data pipelines](#data-pipelines)
+    * [Metadata specification](#metadata-specification)
+    * [Data format](#data-format)
+    * [Scripts](#scripts)
+    * [Data pipelines](#data-pipelines)
 * Russian version
-	* TODO
+  * TODO
 * Kazakh version
   * TODO
   
